@@ -1,0 +1,10 @@
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+.env*
+local.properties
+*.jks
+*.keystore
+*.p12
+*.pem
